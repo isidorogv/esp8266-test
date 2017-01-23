@@ -1,18 +1,19 @@
-
-What is that?
+[Emby Wiki](https://github.com/isidorogv/esp8266-test/wiki)
 ====
 
-Code samples/examples used by me in my ESP8266 projects. Use them to your own.
+[Getting started](https://github.com/isidorogv/esp8266-test/wiki)
+  
+  
 
-Published under GNU/GPL v3.0 or higher.
 
-
-What is included?
+How to Contribute
 ====
 
-* ESP8266_I2C.ino: A ESP-01(ESP8266) mastering many I2C devices, such as HMC5883 3 axis digital compass, GY-901/MLX90614 IR thermometer, SFR-02 ultrasonic module, DS1307 RTC and 3 LCD modules with I2C adaptors.
+The wiki can be edited directly from the github website. 
 
-![Test circuit](pics/esp-01_i2c.jpg)
+To add an image:
 
-
-![LCD modules showing reading details](pics/lcd_detail.jpg)
+* TESTING,TESTING...
+* Make images as minimal as possible. Do not show the entire application window but instead just the relevant parts. Describe the menu navigation rather than displaying it. This will decrease the chances of the image becoming obsolete as navigation changes.
+* Configuration screenshots should display default values
+* Don't assume the user has advanced knowledge of anything. If another part of the system requires setup, then mention it and link to it.
